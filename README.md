@@ -51,7 +51,7 @@ assign c= ( y1 | y3 | y5 | y7);
 endmodule
 ```
 
-Developed by: OBELESH R  RegisterNumber: 24901123
+Developed by: gokulan R  RegisterNumber: 24900991
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
